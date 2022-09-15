@@ -1,0 +1,17 @@
+{
+  "name": "diego/projeto-olamundo",
+  "description": "cls",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Diego\\ProjetoOlamundo\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "diego",
+      "email": "diego.oliveiraandina@gmail.com"
+    }
+  ],
+  "require": {}
+}
